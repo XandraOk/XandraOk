@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there ✨
 
+I'm Xandra, a self taught Data Analyst excited to share my data projects with you.
+
+## 🌟 About me 🌟
+- Management Information Systems background and over 3 years IT experience
+- I love learning new skills
+- I'm currently working on expanding my data skillset by building projects using SQL, R, and Python
 <!--
 **XandraOk/XandraOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
